@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
+My names are Rhodwell Chima, I am a Computer Science student at the University of Zambia.
+I am very interested in UI & UX design, Mobile app development and Artificial intelligence.
+I am really looking forward to collaborating and learning from the great minds of the github community.
 
 <!--
 **Rhodwell-Chima/Rhodwell-Chima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
